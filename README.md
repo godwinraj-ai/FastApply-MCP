@@ -13,8 +13,8 @@ FastApply MCP Server delivers comprehensive code analysis, search, and transform
 
 **🚀 Why FastApply?**
 - **Local Model Architecture**: Uses `edit_file` functionality like MorphLLM. Needs: ([Kortix/FastApply-1.5B-v1.0_GGUF](https://huggingface.co/Kortix/FastApply-1.5B-v1.0_GGUF))
-- **AST-Based Semantic Search**: Advanced code pattern matching and structure analysis. Needs: `ast-grep` (local install needed)
-- **Fast search through ripgrep** Recursively searches directories for a regex pattern. Needs `ripgrep` (local install needed)
+- **AST-Based Semantic Search**: Advanced code pattern matching and structure analysis. Needs: `ast-grep` (local install)
+- **Line-oriented Search**: Recursively searches directories for a regex pattern. Needs `ripgrep` (local install)
 - **Multi-Language Support**: Works with Python, JavaScript, TypeScript, Java
 - **Enterprise Features**: Provides security scanning, compliance reporting, and automated quality gates
 - **Developer Integration**: Compatible with MCP, Claude Code, and major IDEs
